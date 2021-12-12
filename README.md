@@ -24,7 +24,7 @@ These are the tasks required in cat registration phase 2 .
 ## -- Checkout Test Cases -- 
 ---
 **NOTE**
- this algorithm could be made using a recursion (To much memory allocation)
+    this algorithm could be made using a recursion (To much memory allocation)
 ---
 
 # Insomina Curse
@@ -34,7 +34,7 @@ These are the tasks required in cat registration phase 2 .
 - if non of the moduls was equel to 0 then this dragon haven't been harmed.
 - By Getting the number of healthy dragons we get calculate the number of harmed dragons.
 
-## -- Checkout Test Cases -- License
+## -- Checkout Test Cases --
 ----
 # Licence
 MIT
